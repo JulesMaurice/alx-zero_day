@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+deleted:    ../up_to_date
